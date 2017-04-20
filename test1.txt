@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test1newfs
+=======
+test1newfdf
+>>>>>>> e46c7cfd8dfda05c52fe3df934f66d6575b0edd8
 
